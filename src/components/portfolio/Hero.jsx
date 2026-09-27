@@ -6,7 +6,7 @@ import PhotoFrame from "./PhotoFrame";
 const BG = "https://media.base44.com/images/public/user_6ab80590070ba43890d882e1/33449da96_Gemini_Generated_Image_nrw0avnrw0avnrw0.jpg";
 const PHOTO = "https://media.base44.com/images/public/user_6ab80590070ba43890d882e1/fb0e4c24d_60442904036257999641.jpg";
 const BIO =
-  "A Computer and Information Science student at Cairo University with a strong foundation in software development, data analytics, and cybersecurity. With one year of practical experience, I bridge technical disciplines — Python, C++, React, SQL, Power BI, Tableau, and Wireshark — to transform complex data and technical challenges into actionable business value. Passionate about engineering scalable solutions and driving informed decision-making through rigorous analysis.";
+  "A Computer and Information Science specialist from Cairo University with a strong foundation in software development, data analytics, and cybersecurity. With one year of practical experience, I bridge technical disciplines — Python, C++, React, SQL, Power BI, Tableau, and Wireshark — to transform complex data and technical challenges into actionable business value. Passionate about engineering scalable solutions and driving informed decision-making through rigorous analysis.";
 const STATS = [
   ["01 YR", "Field experience"],
   ["CU", "Cairo University"],
